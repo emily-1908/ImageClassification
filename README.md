@@ -1,1 +1,1 @@
-Image Classification practice
+CNN pratice
